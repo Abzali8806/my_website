@@ -1,0 +1,56 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: white;
+}
+.lefty {
+  float: left;
+  height: 100%;
+  width: 50%;
+  padding-right: 20px;
+}
+.topnav a {
+  text-decoration: none;
+  margin: 5px;
+  background-color: aquamarine;
+}
+.righty {
+  background-color: cadetblue;
+}
+.righty a {
+  float: right;
+  text-decoration: none;
+  margin: 5px;
+  margin-bottom: 20px;
+  background-color: aquamarine;
+}
+.righty .frame {
+  width: 45%;
+  height: 45%;
+  float: right;
+}
+.righty img {
+  max-width: auto;
+  vertical-align: middle;
+}
+
+.lefty .skills {
+  margin: 50px;
+  background-color: blanchedalmond;
+  padding: 10px;
+}
+.lefty .skills h3 {
+  text-align: center;
+}
+.lefty .skills li {
+  margin-bottom: 10px;
+}
+
+/*ul {
+  margin: 50px;
+  background-color: blanchedalmond;
+}*/
+
+/* Styling body */
