@@ -1,7 +1,4 @@
-html {
-  margin: 0;
-  padding: 0;
-}
+
 body {
   background-color: white;
 }
@@ -10,6 +7,16 @@ body {
   height: 100%;
   width: 40%;
   padding-right: 20px;
+  margin-left: 20px;
+}
+.lefty h1 {
+  text-decoration: underline;
+}
+.lefty .summary {
+  text-decoration: none;
+}
+h2 {
+  text-decoration: underline;
 }
 .lefty .skills {
   margin-left: 20px;
@@ -18,8 +25,9 @@ body {
   padding: 10px;
   width: 400px;
 }
-.lefty .skills h3 {
+.lefty .skills h2 {
   text-align: center;
+  text-decoration: underline;
 }
 .lefty .skills li {
   margin-bottom: 10px;
