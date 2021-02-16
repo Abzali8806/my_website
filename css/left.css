@@ -42,16 +42,6 @@ h2 {
 .lefty .S_learning {
   color: white;
 }
-.nav_frame {
-  background-color: #c0ded9;
-  color: 3b3a30;
-  border-radius: 10px;
-}
-.nav_frame .topnav a {
-  text-decoration: none;
-  margin: 5px;
-  padding: 5px;
-}
 
 
 /*ul {
